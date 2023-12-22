@@ -1,6 +1,6 @@
 # hydrofoil_fast_ferry_resistance_model
-Digital resources for the paper entitled "A Resistance Model for Hydrofoil 
-Fast Ferries", by John Martin Kleven Godø, Sverre Steen, and Odd Magnus 
+Digital resources for the paper entitled _"A Resistance Model for Hydrofoil 
+Fast Ferries"_, by John Martin Kleven Godø, Sverre Steen, and Odd Magnus 
 Faltinsen.
 
 ## About
@@ -13,8 +13,7 @@ repository constitutes the digital attachments for the work, and presents
 datasets for the following:
 
 - Resistance estimates at design speed
-- Weight estimates, with and without a correction for the buoyancy of the 
-hydrofoil system.
+- Hydrofoil system weight estimates, with and without a buoyancy correction
 
 ## Usage
 The data directory contains subdirectories for resistance and weight results 
