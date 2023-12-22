@@ -3,6 +3,19 @@ Digital resources for the paper entitled "A Resistance Model for Hydrofoil
 Fast Ferries", by John Martin Kleven Godø, Sverre Steen, and Odd Magnus 
 Faltinsen.
 
+## About
+This repository contains results from a research project on the hydrodynamic
+modelling fully foil supported fast ferries. An automatic design algorithm was
+developed, and a series of hydrofoil system designs were analysed through 
+a wide span of design parameters, in the form of design speed and vessel mass. 
+Details of the modelling and analysis approach can be found in the paper. This 
+repository constitutes the digital attachments for the work, and presents 
+datasets for the following:
+
+- Resistance estimates at design speed
+- Weight estimates, with and without a correction for the buoyancy of the 
+hydrofoil system.
+
 ## Usage
 The data directory contains subdirectories for resistance and weight results 
 for the hydrofoil systems presented in the paper. A DataExtractor class can 
@@ -24,7 +37,7 @@ Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
 
 ## Acknowledgments
-The herein contained data constitutes results of a research project that was 
+This repository contains results of a research project that was 
 conducted at the NTNU Department of Marine Technology. 
 The project was funded by the enabling Zero Emission passenger 
 Vessel Services (ZEVS) research project (NFR grant No. 320659) and 
