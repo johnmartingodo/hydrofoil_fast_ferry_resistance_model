@@ -9,3 +9,23 @@ for the hydrofoil systems presented in the paper. A DataExtractor class can \
 be found in the data_extraction.py file. Furthermore, the \
 data_extraction_test.ipynb notebook presents an example of how to extract and \
 interpolate in the presented datasets.
+
+
+## Authors
+
+  - [**John Martin Kleven Godø**](https://www.ntnu.no/ansatte/john.martin.godo)
+  - [**Sverre Steen**](https://www.ntnu.no/ansatte/sverre.steen)
+  - [**Odd Magnus Faltinsen**](https://www.ntnu.no/ansatte/odd.faltinsen)
+
+## License
+
+This project is licensed under the [EUROPEAN UNION PUBLIC LICENCE v. 1.2](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details
+
+## Acknowledgments
+The herein contained data constitutes results of a research project that was 
+conducted at the NTNU Department of Marine Technology. 
+The project was funded by the enabling Zero Emission passenger 
+Vessel Services (ZEVS) research project (NFR grant No. 320659) and 
+SFI Smart Maritime (NFR grant No. 237917). 
