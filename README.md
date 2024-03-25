@@ -1,6 +1,6 @@
 # hydrofoil_fast_ferry_resistance_model
-Digital resources for the paper entitled _"A Resistance Model for Hydrofoil 
-Fast Ferries"_, by John Martin Kleven Godø, Sverre Steen, and Odd Magnus 
+Digital resources for the paper entitled [_"A Resistance Model for Hydrofoil 
+Fast Ferries"_](https://doi.org/10.1016/j.oceaneng.2024.117503), by John Martin Kleven Godø, Sverre Steen, and Odd Magnus 
 Faltinsen.
 
 ## About
